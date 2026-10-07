@@ -7,6 +7,4 @@
 * Manu (---------)
 * Almir Coelho Rubim Junior (202312480)
 
-## 
-
-[Revisão da P1](https://github.com/Leandro-Cardoso/univassouras-ia-limpeza-de-dados/tree/main/main.ipynb)
+### [ATIVIDADE](https://github.com/Leandro-Cardoso/univassouras-ia-limpeza-de-dados/tree/main/main.ipynb)
